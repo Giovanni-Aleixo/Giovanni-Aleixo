@@ -39,6 +39,3 @@
 <div align="center">
   <p>Feito com :heart: e JavaScript.</p>
 </div>
-<div align="center">
-  <p>Créditos: <a href="https://github.com/rafaballerini">Rafa Ballerini</a></p>
-</div>
